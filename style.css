@@ -1,0 +1,657 @@
+.icons{
+    display: flex;
+    margin-left: 30px;
+}
+
+#d1{
+    color: blue;
+    margin-top: 4%;
+}
+.icons ul li{
+    display: inline-flex;
+    padding: 40px;
+}
+#signup{
+margin-left: 30%;
+height: 40px;
+width: 90px;
+margin-top: 4%;
+background-color: blue;
+border-radius: 10px;
+
+}
+#login{
+    height: 40px;
+    width: 90px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-radius: 10px;
+}
+.welcome{
+    /* color: white; */
+    text-align: center;
+    margin-top:10% ;
+
+}
+#make{
+    font-size: 50px;
+}
+#location{
+    margin-left: 30%;
+    width: 600px;
+    height: 100px;
+    border-radius: 30px;
+    display: flex;
+    background-color: blue;
+}
+/* /* #blue{
+    float: right;
+    margin-top: 6%;
+    background-color: blue;
+    width: 100px;
+    height:60px;
+    border-radius: 30px;  
+} */
+    
+
+#ROOM{
+    margin-left: 30%;
+}
+#OUT{
+    margin-left: 20%;
+}
+#CHECK{
+    margin-left: 10%;
+}
+.body{
+    background: cornsilk;
+    
+}
+.capletters{
+    margin: 7%;
+    margin-left: 30%;
+    font-size: 20px;
+}
+#images{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    margin-left: 47%;
+    margin-top: 5%;
+    color: blue;
+    border-radius: 30%;
+
+}
+.sentence{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 20px;
+}
+#onee{
+   margin-right: 15%;
+   width: 200px;
+   margin-left: 10%;
+}
+#twoo{
+    margin-right: 15%;
+    width: 200px;
+
+}
+#three{
+    margin-right: 15%;
+    width: 200px;
+
+}
+#fourr{
+    margin-right: 15%;
+    width: 200px;
+}
+.boxes{
+    display: flex;
+}
+
+.Rooms{
+    margin-left: 45%;
+}
+.sence{
+    margin-left: 35%;
+}
+.one{
+    margin-left: 40%;
+
+}
+.two{
+    margin-left: 45%;
+
+}
+.bed1{
+    display: flex;
+    margin: 10%;
+    width: 800px;
+    height: 400px;
+
+
+
+    
+}
+#bed3{
+   margin-left: 35%;
+
+}
+#bed2{
+    margin-left: 25%;
+}
+#bed6{
+    margin-left: 30%;
+
+}
+#bed5{
+    margin-left:25% ;
+    margin-top: 15%;
+}
+
+/* .beds{
+    display: grid;
+    grid-template-columns: repeat(3,1fr); */
+
+.beds2{
+
+    
+}
+.part3{
+    margin-left: 40%;
+    font-size: 25px;
+}
+.lisst ul li{
+    display: inline-flex;
+    padding: 130px;
+    font-weight: bold;
+}
+.foods{
+    gap: 5%;
+}
+
+#food3{
+    margin-left: 20%;
+
+}
+#foodie{
+    margin-left: 13%;
+}
+#me4{
+    margin-left: 30%;
+}
+/* #me4{
+    margin-left: 90%;
+    margin-bottom: 2%;
+} */
+#me3{
+    margin-left: 40%;
+    margin-top:7% ;
+}
+.clients{
+    margin-left: 35%;
+    font-size: 20px;
+}
+#line3{
+    margin-left: 2%;
+}
+#line4{
+    margin-left: 1%;
+}
+.words{
+    margin-left: 5%;
+    margin-top: 1%;
+    
+    
+}
+.words3{
+    margin-left: 80%;
+    margin-bottom: 100px;
+    margin-top: -34%;
+}
+.words2{
+    
+    margin-left: 40%;
+    /* margin: 5%; */
+}
+.words2{
+    margin-left: 40%;
+    margin-bottom: 20%;
+    
+}
+
+.buttons{display: flex;
+    margin-left: 55%;
+    gap: 20%; 
+
+    
+    
+   
+
+    }
+    #button1{
+        background: dodgerblue;
+        border-radius: 15%;
+        margin-left: 15%;
+    }
+    #button2{
+        background: dodgerblue;
+        border-radius: 15%;
+    }
+    #button3{
+        background: dodgerblue;
+        border-radius: 15%;
+        margin-left: 35%;
+
+    }
+    .lap{
+       margin: 3%;
+       width: 600px;
+
+        }
+        .choose{
+            margin-left: 43%;
+        }
+        .letters{
+            margin-left: 55%;
+        
+        
+        }
+        .blue{
+            margin: 25%;
+            background-color: blue;
+            
+        }
+        .footer{
+            display: flex;
+        }
+        .footer3{
+            margin-left: 40%;
+        }
+        .footer2{
+            margin-left: 25%;
+        }
+        .body{
+            background-image:url(photo.jpeg) ;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .signs{
+        
+            display: flex;
+            
+        }
+        .whole{
+            
+        }
+        .footer{
+            background: cornsilk;
+        }
+        .bedroom{
+            display: grid;
+            grid-template-columns: repeat(3,2fr);
+            padding: 5%;
+        }
+        .bedroom img{
+            border-radius: 8%;
+            height: 50vh;
+            width: 80%;
+            justify-content: space-between;
+            display: flex;
+
+        }
+        .signs{
+            display: grid;
+            grid-template-columns: repeat(2,2fr);
+            height: -800px;
+            width: -800px;
+        }
+        .words{
+            display: flex;
+            gap: 10%;
+            margin: 5%;
+        }
+        .butt{
+            border-radius: 60%;
+            padding: 5%;
+        }
+        buttons{
+            border-radius: 20%;
+            background: blue;
+        }
+    
+        
+
+    .icons{
+        display: flex;
+        margin-left: 30px;
+    }
+    #d1{
+        color: blue;
+        margin-top: 4%;
+    }
+    .icons ul li{
+        display: inline-flex;
+        padding: 40px;
+    }
+    #signup{
+    margin-left: 30%;
+    height: 40px;
+    width: 90px;
+    margin-top: 4%;
+    background-color: blue;
+    border-radius: 10px;
+    
+    }
+    #login{
+        height: 40px;
+        width: 90px;
+        margin-left: 5%;
+        margin-top: 4%;
+        border-radius: 10px;
+    }
+    .welcome{
+        /* color: white; */
+        text-align: center;
+        margin-top:10% ;
+    
+    }
+    #make{
+        font-size: 50px;
+    }
+    #location{
+        margin-left: 30%;
+        width: 600px;
+        height: 100px;
+        border-radius: 30px;
+        display: flex;
+        background-color: blue;
+    }
+    /* /* #blue{
+        float: right;
+        margin-top: 6%;
+        background-color: blue;
+        width: 100px;
+        height:60px;
+        border-radius: 30px;  
+    } */
+        
+    
+    #ROOM{
+        margin-left: 30%;
+    }
+    #OUT{
+        margin-left: 20%;
+    }
+    #CHECK{
+        margin-left: 10%;
+    }
+    .body{
+        background: cornsilk;
+        
+    }
+    .capletters{
+        margin: 7%;
+        margin-left: 30%;
+        font-size: 20px;
+    }
+    #images{
+        display: flex;
+        justify-content: space-between;
+    }
+    .button{
+        margin-left: 47%;
+        margin-top: 5%;
+        color: blue;
+        border-radius: 30%;
+    
+    }
+    .sentence{
+        margin-left: 40%;
+        margin-top: 5%;
+        font-size: 20px;
+    }
+    #onee{
+       margin-right: 15%;
+       width: 200px;
+       margin-left: 10%;
+    }
+    #twoo{
+        margin-right: 15%;
+        width: 200px;
+    
+    }
+    #three{
+        margin-right: 15%;
+        width: 200px;
+    
+    }
+    #fourr{
+        margin-right: 15%;
+        width: 200px;
+    }
+    .boxes{
+        display: flex;
+    }
+    
+    .Rooms{
+        margin-left: 45%;
+    }
+    .sence{
+        margin-left: 35%;
+    }
+    .one{
+        margin-left: 40%;
+    
+    }
+    .two{
+        margin-left: 45%;
+    
+    }
+    .bed1{
+        display: flex;
+        margin: 10%;
+        width: 800px;
+        height: 400px;
+    
+    
+    
+        
+    }
+    #bed3{
+       margin-left: 35%;
+    
+    }
+    #bed2{
+        margin-left: 25%;
+    }
+    #bed6{
+        margin-left: 30%;
+    
+    }
+    #bed5{
+        margin-left:25% ;
+        margin-top: 15%;
+    }
+    
+    /* .beds{
+        display: grid;
+        grid-template-columns: repeat(3,1fr); */
+    
+    .beds2{
+    
+        
+    }
+    .part3{
+        margin-left: 40%;
+        font-size: 25px;
+    }
+    .lisst ul li{
+        display: inline-flex;
+        padding: 130px;
+        font-weight: bold;
+    }
+    .foods{
+        gap: 5%;
+    }
+    
+    #food3{
+        margin-left: 20%;
+    
+    }
+    #foodie{
+        margin-left: 13%;
+    }
+    #me4{
+        margin-left: 30%;
+    }
+    /* #me4{
+        margin-left: 90%;
+        margin-bottom: 2%;
+    } */
+    #me3{
+        margin-left: 40%;
+        margin-top:7% ;
+    }
+    .clients{
+        margin-left: 35%;
+        font-size: 20px;
+    }
+    #line3{
+        margin-left: 2%;
+    }
+    #line4{
+        margin-left: 1%;
+    }
+    .words{
+        margin-left: 5%;
+        margin-top: 1%;
+        
+        
+    }
+    .words3{
+        margin-left: 80%;
+        margin-bottom: 100px;
+        margin-top: -34%;
+    }
+    .words2{
+        
+        margin-left: 40%;
+        /* margin: 5%; */
+    }
+    .words2{
+        margin-left: 40%;
+        margin-bottom: 20%;
+        
+    }
+    
+    .buttons{display: flex;
+        margin-left: 55%;
+        gap: 20%; 
+    
+        
+        
+       
+    
+        }
+        #button1{
+            background: dodgerblue;
+            border-radius: 15%;
+            margin-left: 15%;
+        }
+        #button2{
+            background: dodgerblue;
+            border-radius: 15%;
+        }
+        #button3{
+            background: dodgerblue;
+            border-radius: 15%;
+            margin-left: 35%;
+    
+        }
+        .lap{
+           margin: 3%;
+           width: 600px;
+    
+            }
+            .choose{
+                margin-left: 43%;
+            }
+            .letters{
+                margin-left: 55%;
+            
+            
+            }
+            .blue{
+                margin: 25%;
+                background-color: blue;
+                
+            }
+            .footer{
+                display: flex;
+            }
+            .footer3{
+                margin-left: 40%;
+            }
+            .footer2{
+                margin-left: 25%;
+            }
+            .body{
+                background-image:url(photo.jpeg) ;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            .signs{
+            
+                display: flex;
+                
+            }
+            .whole{
+                
+            }
+            .footer{
+                background: cornsilk;
+            }
+            .bedroom{
+                display: grid;
+                grid-template-columns: repeat(3,2fr);
+                padding: 5%;
+            }
+            .bedroom img{
+                border-radius: 8%;
+                height: 50vh;
+                width: 80%;
+                justify-content: space-between;
+                display: flex;
+    
+            }
+            .signs{
+                display: grid;
+                grid-template-columns: repeat(2,2fr);
+                height: -800px;
+                width: -800px;
+            }
+            .words{
+                display: flex;
+                gap: 10%;
+                margin: 5%;
+            }
+            .butt{
+                border-radius: 60%;
+                padding: 5%;
+            }
+            buttons{
+                border-radius: 20%;
+                background: blue;
+            }
+            
+    
+    
+    
+
+}
+    
+
+
