@@ -2,6 +2,9 @@
     display: flex;
     margin-left: 30px;
 }
+body{
+    background-color: wheat;
+}
 
 #d1{
     color: blue;
@@ -28,7 +31,7 @@ border-radius: 10px;
     border-radius: 10px;
 }
 .welcome{
-    /* color: white; */
+    
     text-align: center;
     margin-top:10% ;
 
@@ -44,14 +47,7 @@ border-radius: 10px;
     display: flex;
     background-color: blue;
 }
-/* /* #blue{
-    float: right;
-    margin-top: 6%;
-    background-color: blue;
-    width: 100px;
-    height:60px;
-    border-radius: 30px;  
-} */
+
     
 
 #ROOM{
@@ -75,12 +71,15 @@ border-radius: 10px;
 #images{
     display: flex;
     justify-content: space-between;
+    border-radius: 5%;
 }
-.button{
+button{
     margin-left: 47%;
-    margin-top: 5%;
-    color: blue;
-    border-radius: 30%;
+    margin-top: 10%;
+    color: black;
+    border-radius: 80%;
+    padding: 2%;
+    background-color: darkorange;
 
 }
 .sentence{
@@ -119,6 +118,7 @@ border-radius: 10px;
 }
 .one{
     margin-left: 40%;
+    
 
 }
 .two{
@@ -150,10 +150,6 @@ border-radius: 10px;
     margin-left:25% ;
     margin-top: 15%;
 }
-
-/* .beds{
-    display: grid;
-    grid-template-columns: repeat(3,1fr); */
 
 .beds2{
 
@@ -214,8 +210,7 @@ border-radius: 10px;
 .words2{
     
     margin-left: 40%;
-    /* margin: 5%; */
-}
+  }   
 .words2{
     margin-left: 40%;
     margin-bottom: 20%;
@@ -224,7 +219,7 @@ border-radius: 10px;
 
 .buttons{display: flex;
     margin-left: 55%;
-    gap: 20%; 
+    gap: 20%;
 
     
     
@@ -259,11 +254,7 @@ border-radius: 10px;
         
         
         }
-        .blue{
-            margin: 25%;
-            background-color: blue;
-            
-        }
+        
         .footer{
             display: flex;
         }
@@ -293,6 +284,7 @@ border-radius: 10px;
             display: grid;
             grid-template-columns: repeat(3,2fr);
             padding: 5%;
+            border-radius: 5%;
         }
         .bedroom img{
             border-radius: 8%;
@@ -353,7 +345,7 @@ border-radius: 10px;
         border-radius: 10px;
     }
     .welcome{
-        /* color: white; */
+       
         text-align: center;
         margin-top:10% ;
     
@@ -369,14 +361,7 @@ border-radius: 10px;
         display: flex;
         background-color: blue;
     }
-    /* /* #blue{
-        float: right;
-        margin-top: 6%;
-        background-color: blue;
-        width: 100px;
-        height:60px;
-        border-radius: 30px;  
-    } */
+    
         
     
     #ROOM{
@@ -476,9 +461,7 @@ border-radius: 10px;
         margin-top: 15%;
     }
     
-    /* .beds{
-        display: grid;
-        grid-template-columns: repeat(3,1fr); */
+   
     
     .beds2{
     
@@ -494,30 +477,36 @@ border-radius: 10px;
         font-weight: bold;
     }
     .foods{
-        gap: 5%;
+        display: grid;
+                grid-template-columns: repeat(3,2fr);
+                padding: 5%;
+                border-radius: 5%;
     }
     
     #food3{
         margin-left: 20%;
+        border-radius: 5%;
     
     }
     #foodie{
         margin-left: 13%;
+        border-radius: 5%;
     }
+    
     #me4{
-        margin-left: 30%;
-    }
-    /* #me4{
-        margin-left: 90%;
+        margin-left: 8%;
         margin-bottom: 2%;
-    } */
+        border-radius: 5%;
+    }
     #me3{
-        margin-left: 40%;
-        margin-top:7% ;
+        margin-left: 18%;
+        margin-top:3% ;
+        border-radius: 5%;
     }
     .clients{
         margin-left: 35%;
         font-size: 20px;
+        border-radius: 15%;
     }
     #line3{
         margin-left: 2%;
@@ -539,7 +528,7 @@ border-radius: 10px;
     .words2{
         
         margin-left: 40%;
-        /* margin: 5%; */
+        
     }
     .words2{
         margin-left: 40%;
@@ -550,6 +539,7 @@ border-radius: 10px;
     .buttons{display: flex;
         margin-left: 55%;
         gap: 20%; 
+        margin-top: -15%;
     
         
         
@@ -581,12 +571,20 @@ border-radius: 10px;
             }
             .letters{
                 margin-left: 55%;
-            
-            
             }
-            .blue{
-                margin: 25%;
-                background-color: blue;
+            .our{
+                margin-top: 55%;
+                margin-left: 35%;
+            
+                
+            }
+            .who{
+                background: dodgerblue;
+                border-radius: 10%;
+            }
+            #enter{
+                border-radius: 10px;
+                margin-right: 100px;
                 
             }
             .footer{
@@ -646,12 +644,126 @@ border-radius: 10px;
                 border-radius: 20%;
                 background: blue;
             }
+            #per{
+                border-radius: 55%;
+
+            }
+            #per2{
+                border-radius: 55%;
+
+
+            }
+            #per4{
+                border-radius: 55%;
+
+
+            }
+            .ipsum{
+                float: right;
+                margin-top: -10%;
+                margin-right: 15%;
+            }
+            #iiiii{
+                width: 600px;
+            }
+            .icons ul li{
+                display: inline-flex;
+               
             
-    
-    
-    
-
-}
-    
-
-
+            
+                
+            }
+            
+            #log{
+                margin-left: 90%;
+            }
+            #sign{
+                margin-left: 80%;
+                margin-top: -1.7%;
+                 }
+             #ress{
+            /* margin-top: -4%; */
+            width: 580px;
+            height: 663px;
+            border-radius: 6%;
+                 }
+                 .rooms{
+                    display: grid;
+                            grid-template-columns: repeat(3,2fr);
+                            width: 28px;
+                            margin-left: 47%;
+                            margin-top: -60%;
+                            
+                            
+                 }
+                 #one{
+                    border-radius: 5%;
+                    height: 90%;
+                 }
+                 #two{
+                    border-radius: 5%;
+                  height: 90%;
+                    
+                 } 
+            
+            
+                 
+                 #three{
+                    border-radius: 5%;
+                    height: 90%;
+                 }
+            
+                 
+                 #four{
+                    border-radius: 5%;
+                    height: 90%;
+                 }
+            
+                    
+            
+            
+                 
+                 #five{
+                    border-radius: 5%;
+                    height: 90%;
+                 }
+            
+            
+                 
+                 #six{
+                    border-radius: 5%;
+                   height: 90%;
+                 }
+            
+            
+                 
+                 #seven{
+                    border-radius: 5%;
+                    height: 90%;
+                 }
+            
+                 
+                 #eight{
+                    border-radius: 5%;
+                   height: 90%;
+                 }
+            
+                 
+                 #nine{
+                    border-radius: 5%;
+                    height: 90%;
+                 }
+            
+                 .footer{
+                            display: flex;
+                        }
+                        .footer3{
+                            margin-left: 40%;
+                        }
+                        .footer2{
+                            margin-left: 25%;
+                             }
+                             .footer{
+                              background-color: white;
+             }
+             

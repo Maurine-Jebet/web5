@@ -1,0 +1,105 @@
+body{
+   font-family: 'Abel', sans-serif;
+font-family: 'Lora', serif;
+/* font-family: 'Shantell Sans', cursive; */
+font-size: 20px;
+overflow-x: hidden;
+}
+.icons ul li{
+    display: inline-flex;
+   
+
+
+    
+}
+
+
+a{
+   text-decoration: none;
+   padding: 30px;
+}
+
+ .hotel .house img{
+   width: 98%;
+   height: 90vh;
+   border-radius: 10px;
+ }
+ .hotel .rooms img{
+   width: 96%;
+   height: 30vh;
+   border-radius: 10px;
+ }
+     .hotel{
+      display: grid;
+      grid-template-columns: repeat(2,1fr);
+     }
+     .rooms{
+        display: grid;
+                grid-template-columns: repeat(3,2fr);
+                
+                
+                
+     }
+     
+     #buttonv{
+        margin-left: 60%;
+        margin-top: 8px;
+        border-radius: 5px;
+        padding: 20px;
+        width: 40px;
+     }
+     .footer{
+                display: flex;
+            }
+            .footer3{
+                margin-left: 30%;
+            }
+            .footer2{
+                margin-left: 25%;
+                 }
+                 .footer{
+                  background-color: white;
+ }
+ .body{
+   background-color: cornsilk;
+ }
+ .food{
+   margin-left: 55%;
+   margin-top: -6%;
+   background-color: white;
+   
+   
+ }
+ .det{
+   background-color: cornsilk;
+ }
+ .lunch{
+   display: inline-flex;
+
+ }
+ .wifi{
+   display: inline-flex;
+   display: flex;
+
+
+ }
+ .but{
+   margin: 5%;
+   
+
+ }
+ #see{
+   border-radius: 30%;
+   padding-left: 95%;
+ }
+ @media screen and (max-width:810px){
+  .footer{
+   display:block;
+   
+  }
+  .food{
+    display: block;
+  }
+  
+  
+ }
