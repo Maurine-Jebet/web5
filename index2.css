@@ -41,12 +41,13 @@ a{
                 
      }
      
-     #buttonv{
+     #button{
         margin-left: 60%;
         margin-top: 8px;
         border-radius: 5px;
         padding: 20px;
         width: 40px;
+        
      }
      .footer{
                 display: flex;
@@ -59,6 +60,12 @@ a{
                  }
                  .footer{
                   background-color: white;
+ }
+ #butt{
+  padding: 10px;
+  border-radius: 30%;
+  color: white;
+  background-color: blue;
  }
  .body{
    background-color: cornsilk;
@@ -83,8 +90,12 @@ a{
 
 
  }
+ .bodyy{
+  background-color: bisque;
+ }
  .but{
    margin: 5%;
+   border-radius: 6%;
    
 
  }

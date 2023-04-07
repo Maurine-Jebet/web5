@@ -1,0 +1,103 @@
+
+
+
+
+body{
+    font-family: 'Abel', sans-serif;
+ font-family: 'Lora', serif;
+ /* font-family: 'Shantell Sans', cursive; */
+ font-size: 20px;
+ overflow-x: hidden;
+ }
+ .icons ul li{
+     display: inline-flex;
+      }
+.about{
+    margin: 8%;
+    margin-left: 45%;
+} 
+#res3{
+    
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+    height: 400px;
+    width: 400px;
+    margin-top: -10%;
+    margin-left: 4%;
+} 
+.worddy{
+    margin-left: 45%;
+    margin-top: -28%;
+    font-size: larger;
+    font-weight: bold;
+} 
+.vision{
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 6%;
+    margin-left: 3%;
+
+}  
+#hawa{
+    width: 400px;
+    height: 350px;
+    margin-top: -55%;
+    margin-left: 53%;
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+
+} 
+.beach{
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 45%;
+    margin-top: -38%;
+    
+    
+
+}
+#swi{
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+    width: 400px;
+    height: 400px;
+    margin: 4%;
+    margin-top: 3%;
+
+}
+.icons ul li{
+    display: inline-flex;
+     }
+     .footer{
+        display: flex;
+    }
+    .footer3{
+        margin-left: 30%;
+    }
+    .footer2{
+        margin-left: 25%;
+         }
+         .footer{
+          background-color: white;
+          font-size: medium;
+} 
+a{
+    text-decoration: none;
+    padding: 30px; }
+    .footer{
+        font-size: large;
+    }
+    #butt{
+        padding: 10px;
+        border-radius: 30%;
+        color: white;
+        background-color: blue;
+       }
+       .button{
+        border-radius: 20%;
+        padding: 2%;
+        color: blue;background-color: azure;
+       }
+       .bodyy{
+        background: rgb(228, 219, 228);
+       }
